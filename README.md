@@ -1,7 +1,7 @@
 - 👋 @SuperSummer07
-- 👀 I’m interested in Python and OI
-- 🌱 I’m currently study in a sernior high school
-- 💞️ I come from P.R.C
+- 👀 I’m interested in Python and AI Infra
+- 🌱 I’m currently study in HUAT in Hubei Province, China.
+- 💞️ I come from Wuhan, Hubei Province, China.
 - 📫 reach me: direck@foxmail.com
 
 <!---
